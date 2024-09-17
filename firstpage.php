@@ -59,13 +59,9 @@
                 <div class="wallpaper">
                     
                     <div class="text">
-<<<<<<< HEAD
                     <h3>สวัสดีครับ <span id="type"></span></h3>
                     <p>ยินดีต้อนรับสู่ CSS SHOP เว็บไซต์แฟชั่นที่ตอบโจทย์ทุกความต้องการของคุณ ไม่ว่าคุณจะกำลังมองหาสไตล์เท่ๆ สำหรับวันสบายๆ หรือเสื้อผ้าที่เต็มไปด้วยความหรูหราสำหรับโอกาสพิเศษ ที่นี่เรามีเสื้อผ้าให้เลือกมากมาย พร้อมดีไซน์ที่ทันสมัยและคุณภาพเกรดพรีเมียม</p>
-=======
-                    <h3>สวัสดีครับบบบบบบบบบบบบ <span id="type"></span></h3>
-                    <p>เว็บไซต์ของเราคือเว็บไซต์ที่จะปล่อยให้เช่าบูชาวัตถุมงคลของพระเกจิอาจารย์ชื่อดังหรือเป็นที่รู้จักในไทยครับพวกเราขอขอบคุณที่แวะมาเยี่ยมชมเว็บไซต์ของเราขอให้เจอสิ่งที่ท่านตามหาและหากมีข้อผิดพลาดประการใดขออภัยมา ณ ที่นี้ด้วยนะครับ</p>
->>>>>>> 4bdc084d100713926b03ff8745a7ba6897e97adf
+
                     </div>
                 </div>
             </div>
@@ -79,22 +75,22 @@
                     <div class="picture">
                         <img src="image/list/Folk-1.jpg" alt="" id="c_pic">
                         <p>เสื้อยืด<br>สี:แดง รุ่น Nike<br><button class="c1"
-                                onclick="window.location.href='a01.php'">View!</button></p>
+                                onclick="window.location.href='#'">View!</button></p>
                     </div>
                     <div class="picture">
                         <img src="image/list/Folk-2.jpg" alt="" id="c_pic2">
                         <p>เสื้อยืด<br>สี:แดง รุ่น Nike<br><button class="c2"
-                                onclick="window.location.href='a02.php'">View!</button></p>
+                                onclick="window.location.href='#'">View!</button></p>
                     </div>
                     <div class="picture">
                         <img src="image/list/Folk-3.jpg" alt="" id="c_pic3">
                         <p>เสื้อยืด<br>สี:แดง รุ่น Nike<br><button class="c3"
-                                onclick="window.location.href='a03.php'">View!</button></p>
+                                onclick="window.location.href='#'">View!</button></p>
                     </div>
                     <div class="picture">
                         <img src="image/list/Folk-4.jpg" alt="" id="c_pic4">
                         <p>เสื้อยืด<br>สี:แดง รุ่น Nike<br><button class="c4"
-                                onclick="window.location.href='a04.php'">View!</button></p>
+                                onclick="window.location.href='#'">View!</button></p>
                     </div>
                 </div>
             </div>
@@ -103,11 +99,11 @@
                 <div class="content">
                     <div class="howtitle">วิธีการสั่งซื้อ(How to buy)</div>
                 </div>
-                <div class="animation">🤔❓</div>
+                <!-- <div class="animation">🤔❓</div> 
                 <div class="video">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/yDzCh_ZsAjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/8kgjncmmTbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
+                </div>-->
             </div>
         </div>
         <div id="shop"></div>
@@ -123,78 +119,78 @@
 
             <div class="content">
                 <div class="picture">
-                    <img src="image/list/a05.png" alt="" id="c_pic5">
-                    <p>หลวงพ่อคูณ ปริสุทโธ<br>รุ่น นั่งพานชนะมาร<br><button class="c1"
-                            onclick="window.location.href='a05.php'">View!</button></p>
+                    <img src="image/list/Folk-5.jpg" alt="" id="c_pic5">
+                    <p>เสื้อโปโล<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
                 <div class="picture">
-                    <img src="image/list/a06.png" alt="" id="c_pic6">
-                    <p>หลวงพ่อคูณ ปริสุทโธ<br>รุ่น พิเศษ<br><button class="c1"
-                            onclick="window.location.href='a06.php'">View!</button></p>
+                    <img src="image/list/Folk-6.jpg" alt="" id="c_pic6">
+                    <p>เสื้อเอวลอย<br>สี ดำ รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
                 <div class="picture">
-                    <img src="image/list/a07.png" alt="" id="c_pic7">
-                    <p>หลวงพ่อคูณ ปริสุทโธ<br>รุ่น เจริญพรบน<br><button class="c1"
-                            onclick="window.location.href='a07.php'">View!</button></p>
+                    <img src="image/list/Folk-7.jpg" alt="" id="c_pic7">
+                    <p>เสื้อเสเวตเตอร์<br>สี ดำ รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
                 <div class="picture">
-                    <img src="image/list/a08.png" alt="" id="c_pic8">
-                    <p>หลวงพ่อคูณ ปริสุทโธ<br>รุ่น เพชรน้ำเอก<br><button class="c1"
-                            onclick="window.location.href='a08.php'">View!</button></p>
-                </div>
-            </div>
-            <div class="content">
-                <div class="picture">
-                    <img src="image/list/a09.png" alt="" id="c_pic9">
-                    <p>หลวงพ่อวัดไร่ขิง<br>รุ่น ลาภผลพูนทวี รุ่งเรืองร่ำรวย<br><button class="c1"
-                            onclick="window.location.href='a09.php'">View!</button></p>
-                </div>
-                <div class="picture">
-                    <img src="image/list/a10.png" alt="" id="c_pic10">
-                    <p>หลวงพ่อวัดไร่ขิง<br>รุ่น ลาภผลพูนทวี รุ่งเรืองร่ำรวย<br><button class="c1"
-                            onclick="window.location.href='a10.php'">View!</button></p>
-                </div>
-                <div class="picture">
-                    <img src="image/list/a11.png" alt="" id="c_pic11">
-                    <p>หลวงพ่อวัดไร่ขิง<br>รุ่น ลาภผลพูนทวี รุ่งเรืองร่ำรวย<br><button class="c1"
-                            onclick="window.location.href='a11.php'">View!</button></p>
-                </div>
-                <div class="picture">
-                    <img src="image/list/a12.png" alt="" id="c_pic12">
-                    <p>หลวงพ่อวัดไร่ขิง<br>รุ่น ลาภผลพูนทวี รุ่งเรืองร่ำรวย<br><button class="c1"
-                            onclick="window.location.href='a12.php'">View!</button></p>
+                    <img src="image/list/Folk-8.jpg" alt="" id="c_pic8">
+                    <p>เสื้อเชิร์ต<br>สี ดำ รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
             </div>
             <div class="content">
                 <div class="picture">
-                    <img src="image/list/a13.png" alt="" id="c_pic13">
-                    <p>หลวงปู่โต๊ะ อินทสุวัณโณ<br>รุ่น ปิดตากนกข้าง<br><button class="c1"
-                            onclick="window.location.href='a13.php'">View!</button></p>
+                    <img src="image/list/Folk-9.jpg" alt="" id="c_pic9">
+                    <p>เสื้อสเวตเตอร์<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
                 <div class="picture">
-                    <img src="image/list/a14.png" alt="" id="c_pic14">
-                    <p>หลวงปู่โต๊ะ อินทสุวัณโณ<br>รุ่น ปิดตาหลังเต่า<br><button class="c1"
-                            onclick="window.location.href='a14.php'">View!</button></p>
+                    <img src="image/list/Folk-10.jpg" alt="" id="c_pic10">
+                    <p>เสื้อสเวตเตอร์<br>สี ดำ รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
                 <div class="picture">
-                    <img src="image/list/a15.png" alt="" id="c_pic15">
-                    <p>หลวงปู่โต๊ะ อินทสุวัณโณ<br>รุ่น ปิดตาปลดหนี้หลังยันต์ตรี<br><button class="c1"
-                            onclick="window.location.href='a15.php'">View!</button></p>
+                    <img src="image/list/Folk-11.jpg" alt="" id="c_pic11">
+                    <p>เสื้อสเวตเตอร์<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
                 <div class="picture">
-                    <img src="image/list/a16.png" alt="" id="c_pic16">
-                    <p>หลวงปู่โต๊ะ อินทสุวัณโณ<br>รุ่น ปิดตาหลังยันต์นะทะนะ<br><button class="c1"
-                            onclick="window.location.href='a16.php'">View!</button></p>
+                    <img src="image/list/Folk-12.jpg" alt="" id="c_pic12">
+                    <p>เสื้อโปโล<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
+                </div>
+            </div>
+            <div class="content">
+                <div class="picture">
+                    <img src="image/list/Folk-13.jpg" alt="" id="c_pic13">
+                    <p>เสื้อโปโล<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
+                </div>
+                <div class="picture">
+                    <img src="image/list/Folk-14.jpg" alt="" id="c_pic14">
+                    <p>เสื้อโปโล<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
+                </div>
+                <div class="picture">
+                    <img src="image/list/Folk-15.jpg" alt="" id="c_pic15">
+                    <p>เสื้อโปโล<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
+                </div>
+                <div class="picture">
+                    <img src="image/list/Folk-16.jpg" alt="" id="c_pic16">
+                    <p>เสื้อโปโล<br>สี ขาว รุ่น nike<br>
+                    <button class="c1"onclick="window.location.href='#'">View!</button></p>
                 </div>
             </div>
         </div>
         <div class="change">
             <ul style="width: 15rem;">
                 <li class="l1"><button>1</button></li>
-                <li class="l2"><button onclick="window.location.href='pagetwo.php'">2</button></li>
-                <li class="l3"><button onclick="window.location.href='pagethree.php'">3</button></li>
-                <li class="l3"><button onclick="window.location.href='pagefour.php'">4</button></li>
-                <li class="l4"><button onclick="window.location.href='pagetwo.php'">></button></li>
+                <li class="l2"><button onclick="window.location.href='#'">2</button></li>
+                <li class="l3"><button onclick="window.location.href='#'">3</button></li>
+                <li class="l3"><button onclick="window.location.href='#'">4</button></li>
+                <li class="l4"><button onclick="window.location.href='#'">></button></li>
             </ul>
         </div>
         <div class="footer">
