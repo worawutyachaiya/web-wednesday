@@ -19,8 +19,13 @@ html{
     padding: 0 150px;
 }
 .header1 img{
-    height: 50px;
-}   
+    width: 120px;
+} 
+.header1 a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
 .header1 .topright{
     color: #fff;
     align-items: center;

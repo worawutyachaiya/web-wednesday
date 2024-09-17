@@ -32,7 +32,7 @@
         <div class="container">
             <div class="header">
                 <div class="header1">
-                    <a href="firstpage.php"><img src="image/logo.png" alt=""></a>
+                    <a href="firstpage.php"><img src="image/logo.png" alt="" ></a>
                     <ul class="topright">
                         <li class="l2"><a href="cart.php">ตะกร้าสินค้า</a></li>
                         <li>|</li>
